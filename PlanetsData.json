@@ -1,0 +1,315 @@
+{
+    "DUMMY_PLANET": [
+            {
+                "id": "P1",
+                "name": "Mercury",
+                "description": "Mercury is the closest planet to the Sun",
+                "state":"sale",
+                "price": 13.99,
+                "tag":"hot",
+                "kind":"planet",
+                "imgsrc":"https://i.namu.wiki/i/WsasFxRrm0aNX-X_Ic_5yq-fdGSM_HXCAFsJwaTPYlTfvEzeT6Iq6GE6iVmIAOjRmnWfvtGZVZ4M3pc0swmsrw.webp"
+            },
+            {
+                "id": "P2",
+                "name": "Venus",
+                "description": "Venus is often referred to as Earth's 'sister planet'",
+                "state":"sale",
+                "price": 15.99,
+                "tag":"hot",
+                "kind":"planet",
+                "imgsrc":"https://i.namu.wiki/i/Kp_alm6OxHVstpLD7xHo54_QF4EvVqUEZUSrG9KgN9I61yqEy_HZ1GMGXXBqgSpVk2KRVLeIdstpcPDynoUtZQ.webp"
+            },
+            {
+                "id": "P3",
+                "name": "Earth",
+                "description": "Earth is our home",
+                "state":"soldout",
+                "price": 0,
+                "tag":"home",
+                "kind":"planet",
+                "imgsrc":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/EpicEarth-Globespin%282016May29%29.gif/1200px-EpicEarth-Globespin%282016May29%29.gif"
+            
+            },
+            {
+                "id": "P4",
+                "name": "Mars",
+                "description": "Mars is often called the 'Red Planet'",
+                "state":"sale",
+                "price": 24.99,
+                "tag":"home",
+                "kind":"planet",
+                "imgsrc":"https://i.namu.wiki/i/AWJ6goyM8oO6IOEzcs4oJ6aTyjG0WOQmY_1yJkzBTzyFFnB4XRphTR4eYtLqcRzq0H0A_tlmDWOmkldqDIy0MQ.webp"
+            
+            },
+            {
+                "id": "P5",
+                "name": "Jupiter",
+                "description": "Jupiter is Biggest planent our galaxy",
+                "state":"sale",
+                "price": 35.99,
+                "tag":"wind",
+                "kind":"planet",
+                "imgsrc":"https://thescienceplus.com/news/data/20200927/p1065574993555985_695_thum.jpg"
+            
+            },
+            {
+                "id": "P6",
+                "name": "Saturn",
+                "description": "Saturn has beautiful ring him self",
+                "state":"sale",
+                "price": 49.99,
+                "tag":"gas",
+                "kind":"planet",
+                "imgsrc":"https://i.namu.wiki/i/7I24pBOTk6lJxx3sQ_6MpnKNjYa_phji43HKX8cAT75PNltcDI85M0mfnpKZD0EmzSbHsQDr479cI7Jb-rs7EQ.webp"
+            
+            },
+            {
+                "id": "P7",
+                "name": "Uranus",
+                "description": "Uranus is very cold planet",
+                "state":"sale",
+                "price": 45.99,
+                "tag":"cold",
+                "kind":"planet",
+                "imgsrc":"https://i.namu.wiki/i/twApqPOskgOFPRVt6b-IcbqUHPN11Ts4pBGIDAb2h_CLiPOMCpCQTsAG6ele5KFOXNBPOBX0_Gf0I5Yp_MPVSw.webp"
+            
+            },
+            {
+                "id": "P8",
+                "name": "Neptune",
+                "description": "Neptune is blue and too far from our galaxy",
+                "state":"sale",
+                "price": 45.99,
+                "tag":"wind",
+                "kind":"planet",
+                "imgsrc":"https://astro.kasi.re.kr/file/astro_page/496016818956169.jpg"
+            
+            },
+            {
+                "id": "P9",
+                "name": "Pluto",
+                "description": "Pluto was a planet in our galaxy",
+                "state":"sale",
+                "price": 20.99,
+                "tag":"gas",
+                "kind":"dwarf",
+                "imgsrc":"https://image.dongascience.com/Photo/2021/08/d52e89ec7334c05e0c4298fc7a5adc1a.jpg"
+            
+            },
+            {
+                "id": "P10",
+                "name": "Eris",
+                "description": "Eris is cover the ice",
+                "state":"sale",
+                "price": 20.99,
+                "tag":"cold",
+                "kind":"asteroid",
+                "imgsrc":"https://www.universetoday.com/wp-content/uploads/2007/06/2007-0613eris.jpg"
+            
+            },
+            {
+                "id": "P11",
+                "name": "Titania",
+                "description": "Titania is one of the moons of Uranus",
+                "state":"sale",
+                "price": 15.99,
+                "tag":"cold",
+                "kind":"moon",
+                "imgsrc":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Titania.jpg/600px-Titania.jpg"
+            
+            },
+            {
+                "id": "P12",
+                "name": "Ganymede",
+                "description": "Ganymede is one of the moons of Jupiter",
+                "state":"sale",
+                "price": 17.99,
+                "tag":"rock",
+                "kind":"moon",
+                "imgsrc":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Moon_Ganymede_by_NOAA.jpg"
+            
+            },
+            {
+                "id": "P13",
+                "name": "Titan",
+                "description": "Titan is one of the moons of Saturn",
+                "state":"sale",
+                "price": 23.99,
+                "tag":"rock",
+                "kind":"moon",
+                "imgsrc":"https://media.npr.org/assets/img/2017/10/16/titan-41d62a75c7b7376fe8ff872bb1deec3bc24a4a14.jpeg"
+            
+            },
+            {
+                "id": "P14",
+                "name": "Proxima Centauri b",
+                "description": "Proxima Centauri b is an exoplanet orbiting the closest star to our solar system, Proxima Centauri",
+                "state": "sale",
+                "price": 29.99,
+                "tag": "hot",
+                "kind": "planet",
+                "imgsrc":"https://upload.wikimedia.org/wikipedia/commons/8/81/Artist%E2%80%99s_impression_of_Proxima_Centauri_b_shown_hypothetically_as_an_arid_rocky_super-earth.jpg"
+            },
+            {
+                "id": "P15",
+                "name": "Kepler-452b",
+                "description": "Kepler-452b is an exoplanet similar in size to Earth and orbits a star similar to our Sun",
+                "state": "sale",
+                "price": 32.99,
+                "tag": "home",
+                "kind": "planet",
+                "imgsrc":"https://www.nasa.gov/sites/default/files/thumbnails/image/452b_artistconcept_beautyshot.jpg"
+            },
+            {
+                "id": "P16",
+                "name": "HD 189733 b",
+                "description": "HD 189733 b is an exoplanet known for its deep blue color caused by the presence of silicate particles in its atmosphere",
+                "state": "sale",
+                "price": 27.99,
+                "tag": "wind",
+                "kind": "planet",
+                "imgsrc":"https://www.nasa.gov/sites/default/files/thumbnails/image/heic1312a.jpg"
+            },
+            {
+                "id": "P17",
+                "name": "TrES-2b",
+                "description": "TrES-2b is an exoplanet that reflects less than 1% of the light it receives, making it one of the darkest known exoplanets",
+                "state": "sale",
+                "price": 25.99,
+                "tag": "home",
+                "kind": "planet",
+                "imgsrc":"https://www.nasa.gov/sites/default/files/images/579214main_466_TrES-2b.jpg"
+            },
+            {
+                "id": "P18",
+                "name": "HD 106906 b",
+                "description": "HD 106906 b is an exoplanet that orbits its star at an incredibly wide distance, about 650 times the average distance between the Earth and the Sun",
+                "state": "sale",
+                "price": 39.99,
+                "tag": "hot",
+                "kind": "planet",
+                "imgsrc":"https://www.the-sun.com/wp-content/uploads/sites/6/2022/03/NINTCHDBPICT000719346739.jpg"
+            },
+            {
+                "id": "P19",
+                "name": "PSR B1257+12 b",
+                "description": "PSR B1257+12 b is an exoplanet that orbits a pulsar, a highly magnetized, rotating neutron star",
+                "state": "sale",
+                "price": 23.99,
+                "tag": "home",
+                "kind": "planet",
+                "imgsrc":"https://exoplanets.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFlEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e0b806a3c6bc468ecc05f9e0abd32eaf3f6b3532/PSR_B1257_12_b.jpg?disposition=inline"
+            },
+            {
+                "id": "P20",
+                "name": "WASP-12b",
+                "description": "WASP-12b is an exoplanet with an incredibly low albedo, making it one of the darkest exoplanets known",
+                "state": "sale",
+                "price": 28.99,
+                "tag": "hot",
+                "kind": "planet",
+                "imgsrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq3dtDhOW67DRjfN-BONs4WFFBUwsYikA97g&usqp=CAU"
+            },
+            {
+                "id": "P21",
+                "name": "Tau Ceti e",
+                "description": "Tau Ceti e is an exoplanet within the habitable zone of its star, Tau Ceti, making it a potential candidate for hosting life",
+                "state": "sale",
+                "price": 34.99,
+                "tag": "gas",
+                "kind": "planet",
+                "imgsrc":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Termoplaneta.jpg/1200px-Termoplaneta.jpg"
+            },
+            {
+                "id": "P22",
+                "name": "HR 8799c",
+                "description": "HR 8799c is an exoplanet that orbits its star at a distance similar to the orbit of Pluto in our solar system",
+                "state": "sale",
+                "price": 26.99,
+                "tag": "gas",
+                "kind": "planet",
+                "imgsrc":"https://upload.wikimedia.org/wikipedia/commons/1/19/Planet_around_HR_8799.jpg"
+            },
+            {
+                "id": "P23",
+                "name": "Gliese 581d",
+                "description": "Gliese 581d is an exoplanet that resides within the habitable zone of its star, Gliese 581",
+                "state": "sale",
+                "price": 37.99,
+                "tag": "home",
+                "kind": "planet",
+                "imgsrc":"https://cdn.sci.news/images/2015/03/image_2575-Gliese-581d.jpg"
+            },
+            {
+                "id": "P24",
+                "name": "55 Cancri e",
+                "description": "55 Cancri e is an exoplanet with an extremely high density, likely composed of carbon-rich material",
+                "state": "sale",
+                "price": 30.99,
+                "tag": "rock",
+                "kind": "planet",
+                "imgsrc":"https://exoplanets.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcElEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e7f055277aec9bb8da6555fd08a482b9f2f219f/1332_lava.jpg?disposition=inline"
+            },
+            {
+                "id": "P25",
+                "name": "HD 209458 b",
+                "description": "HD 209458 b is an exoplanet that was the first known exoplanet to be observed transiting its star",
+                "state": "sale",
+                "price": 31.99,
+                "tag": "cold",
+                "kind": "planet",
+                "imgsrc":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Exotic_Atmospheres.jpg/300px-Exotic_Atmospheres.jpg"
+            },
+            {
+                "id": "P26",
+                "name": "Luhman 16B",
+                "description": "Luhman 16B is a brown dwarf, often referred to as a failed star, that is part of a binary system",
+                "state": "sale",
+                "price": 22.99,
+                "tag": "cold",
+                "kind": "dwarf",
+                "imgsrc":"https://cdn.sci.news/images/enlarge/image_1730_1e-Luhman-16B.jpg"
+            },
+            {
+                "id": "P27",
+                "name": "Haumea",
+                "description": "Haumea is a dwarf planet located in the outer region of our solar system and has a unique elongated shape",
+                "state": "sale",
+                "price": 33.99,
+                "tag": "cold",
+                "kind": "dwarf",
+                "imgsrc":"https://solarsystem.nasa.gov/system/stellar_items/image_files/723_feature_1600x900_haumea.jpg"
+            },
+            {
+                "id": "P28",
+                "name": "Epsilon Eridani b",
+                "description": "Epsilon Eridani b is an exoplanet that orbits the star Epsilon Eridani, which is similar to our Sun",
+                "state": "sale",
+                "price": 24.99,
+                "tag": "hot",
+                "kind": "planet",
+                "imgsrc":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Epsilon_Eridani_b.jpg/1200px-Epsilon_Eridani_b.jpg"
+            },
+            {
+                "id": "P29",
+                "name": "Makemake",
+                "description": "Makemake is a dwarf planet located in the outer region of our solar system, beyond the orbit of Neptune",
+                "state": "sale",
+                "price": 35.99,
+                "tag": "cold",
+                "kind": "asteroid",
+                "imgsrc":"https://pbs.twimg.com/media/Ex2HVFTWQAAuRnO.jpg"
+            },
+            {
+                "id": "P30",
+                "name": "HD 17156 b",
+                "description": "HD 17156 b is an exoplanet known for its highly eccentric orbit, which is significantly elongated and non-circular",
+                "state": "sale",
+                "price": 27.99,
+                "tag": "hot",
+                "kind": "planet",
+                "imgsrc":"https://exoplanets.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzBEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0e6c924cd7ced1b323d5c1a85fb0e4dc7160aadb/HotJupiter_1200.jpg?disposition=inline"
+            }
+        ]
+}

@@ -1,0 +1,24 @@
+{
+    "state": [
+        { "text": "SALE", "className": "sale", "id":"bt1", "isSelected":false, "parent":"state"},
+        { "text": "SOLDOUT", "className": "soldout", "id":"bt2", "isSelected":false, "parent":"state" }
+    ],
+    "kind": [
+        { "text": "PLANET", "className": "planet", "id":"bt3", "isSelected":false, "parent":"kind" },
+        { "text": "DWARF", "className": "dwarf", "id":"bt4", "isSelected":false, "parent":"kind" },
+        { "text": "ASTEROID", "className": "asteroid", "id":"bt5", "isSelected":false, "parent":"kind"  },
+        { "text": "MOON", "className": "moon", "id":"bt6", "isSelected":false, "parent":"kind"  }
+    ],
+    "price": [
+        { "text": "High to Low", "className": "h_t_l", "id":"bt7", "isSelected":false, "parent":"price"  },
+        { "text": "Low to High", "className": "l_t_h", "id":"bt8", "isSelected":false, "parent":"price"  }
+    ],
+    "tag": [
+        { "text": "HOME", "className": "home", "id":"bt9", "isSelected":false, "parent":"tag"  },
+        { "text": "HOT", "className": "hot", "id":"bt10", "isSelected":false, "parent":"tag"  },
+        { "text": "COLD", "className": "cold", "id":"bt11", "isSelected":false, "parent":"tag"  },
+        { "text": "WIND", "className": "wind", "id":"bt12", "isSelected":false, "parent":"tag"  },
+        { "text": "ROCK", "className": "rock", "id":"bt13", "isSelected":false, "parent":"tag"  },
+        { "text": "GAS", "className": "gas", "id":"bt14", "isSelected":false, "parent":"tag"  }
+    ]
+}

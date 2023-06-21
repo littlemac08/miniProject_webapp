@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f894936.css",
+    "main.js": "/static/js/main.166fa5a9.js",
+    "static/media/planetsTopBanner.png": "/static/media/planetsTopBanner.ee87662203e8cf8b5af6.png",
+    "static/media/mainVisual.png": "/static/media/mainVisual.5092df49743bd4ed6b90.png",
+    "static/media/headerImg.jpg": "/static/media/headerImg.2bbaa542ae4a5e7c9298.jpg",
+    "static/media/bg.jpg": "/static/media/bg.1a48bbbeac887aa712ba.jpg",
+    "static/media/bgcontent.jpg": "/static/media/bgcontent.bf6216cf59cdca595486.jpg",
+    "static/media/CartBg.jpg": "/static/media/CartBg.6b1e494c4a9cbef94d11.jpg",
+    "index.html": "/index.html",
+    "main.6f894936.css.map": "/static/css/main.6f894936.css.map",
+    "main.166fa5a9.js.map": "/static/js/main.166fa5a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f894936.css",
+    "static/js/main.166fa5a9.js"
+  ]
+}
